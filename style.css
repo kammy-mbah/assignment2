@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding: 4rem;
+}
+main {
+  /* background-color: #d03030; */
+  display: flex;
+  flex-direction: column;
+}
+body {
+  background-image: url("assets/mybacimg.jpeg");
+}
+.full-page {
+  background-color: rgb(236, 234, 240);
+  padding: 3rem;
+}
+
+/* input {
+  height: 3vh;
+  width: 35vw;
+} */
+button {
+  background-color: rgb(96, 164, 96);
+  width: 100px;
+  height: 30px;
+}
